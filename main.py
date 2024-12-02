@@ -17,9 +17,9 @@ else:
     elif(computer==-1 and you ==1): 
         print(" Better Luck Next Time!")
     elif(computer==-1 and you ==0): 
-        print("Better Luck Next Time!")
+        print("You win")
     elif(computer==0 and you ==-1): 
-        print("You Win")
+        print("Better Luck Next Time!")
     elif(computer==0 and you ==1): 
         print("you win")
     else:
